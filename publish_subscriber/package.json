@@ -1,0 +1,11 @@
+{
+    "name": "publish_subscriber",
+    "version": "0.0.1",
+    "main": "zmq-watcher-pub.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "dependencies": {
+        "zeromq": "^4.2.3"
+    }
+}
